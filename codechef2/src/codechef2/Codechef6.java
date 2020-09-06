@@ -9,6 +9,7 @@ public class Codechef6 {
 		// TODO Auto-generated method stub
 		 Scanner sc=new Scanner(System.in);
 	     System.out.println("First change");
+	     System.out.println("second Change");
 	       int t=sc.nextInt();
 	       for(int i=0;i<t;i++)
 	       {
